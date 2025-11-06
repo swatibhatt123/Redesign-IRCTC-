@@ -21,6 +21,15 @@ Redesign the user experience of the IRCTC homepage to improve usability, visual 
 
 ---
 
+## ✏️ Wireframes
+Low-fidelity wireframes created in grayscale to improve:
+- Layout clarity
+- Navigation flow
+- CTA visibility
+
+---
+
+
 ## 🎨 Final UI Screens
 High-fidelity redesign includes:
 - Simplified booking form with grouped fields
